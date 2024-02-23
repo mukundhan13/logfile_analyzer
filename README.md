@@ -30,4 +30,4 @@ This Java program analyzes a log file and extracts information about errors and 
 ## File Structure
 
 - Main.java: Main class containing the main() method to execute the program.
-- abc.txt: Sample log file for testing purposes.
+- logfile.txt: Sample log file for testing purposes.
